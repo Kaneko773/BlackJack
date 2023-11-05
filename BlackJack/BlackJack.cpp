@@ -1,8 +1,6 @@
 ﻿// BlackJack.cpp : このファイルには 'main' 関数が含まれています。プログラム実行の開始と終了がそこで行われます。
 //
 
-//ポイントを判断して加算する関数
-//
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
